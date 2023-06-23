@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_0" data-name="0" xmlns="http://www.w3.org/2000/svg" width="280mm" height="200mm" viewBox="0 0 793.7 566.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+    </style>
+  </defs>
+  <g id="CIRCLE">
+    <circle class="cls-1" cx="181.35" cy="202.15" r="30.47"/>
+  </g>
+  <g id="CIRCLE-2" data-name="CIRCLE">
+    <circle class="cls-1" cx="275.38" cy="147.87" r="30.47"/>
+  </g>
+  <g id="CIRCLE-3" data-name="CIRCLE">
+    <circle class="cls-1" cx="251.14" cy="214.46" r="30.47"/>
+  </g>
+  <g id="CIRCLE-4" data-name="CIRCLE">
+    <circle class="cls-1" cx="312.51" cy="249.89" r="30.47"/>
+  </g>
+  <g id="CIRCLE-5" data-name="CIRCLE">
+    <circle class="cls-1" cx="355.03" cy="399.89" r="37.91"/>
+  </g>
+  <g id="CIRCLE-6" data-name="CIRCLE">
+    <circle class="cls-1" cx="411.77" cy="285.24" r="30.47"/>
+  </g>
+  <g id="CIRCLE-7" data-name="CIRCLE">
+    <circle class="cls-1" cx="397.55" cy="204.56" r="30.47"/>
+  </g>
+  <g id="CIRCLE-8" data-name="CIRCLE">
+    <circle class="cls-1" cx="458.92" cy="169.13" r="30.47"/>
+  </g>
+  <g id="CIRCLE-9" data-name="CIRCLE">
+    <circle class="cls-1" cx="528.71" cy="156.82" r="30.47"/>
+  </g>
+  <g id="CIRCLE-10" data-name="CIRCLE">
+    <circle class="cls-1" cx="599.58" cy="156.82" r="30.47"/>
+  </g>
+  <g id="CIRCLE-11" data-name="CIRCLE">
+    <circle class="cls-1" cx="542.94" cy="237.5" r="30.47"/>
+  </g>
+  <g id="CIRCLE-12" data-name="CIRCLE">
+    <circle class="cls-1" cx="473.15" cy="249.8" r="30.47"/>
+  </g>
+  <g id="CIRCLE-13" data-name="CIRCLE">
+    <circle class="cls-1" cx="613.8" cy="237.5" r="30.47"/>
+  </g>
+</svg>
